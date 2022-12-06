@@ -34,7 +34,9 @@ Files and coding: The master table that combines data from two websites is saved
 
 ### 3. Plotting
 
-Method: 
+Method: I planned to plot out several diagrams: (1) linear diagram about how the average rating changes over the years within three different positionings of the hotels, (2) pie chart diagrams about how the customer share different positioning of the hotels, (3) pie chart diagrams about how the customer share of different years within each positioning hotel, (4) word cloud from three different positioning hotel review content which I can identify which is the most frequent value that the customers have mentioned. Attached is the word cloud from Waldorf Hotel for reference, (5) sentiment from customer’s review changes over years for three different positioning.
+
+Files and coding: The static plots have been saved to the folder Images. The code that produced these images are saved under the Jupyter Notebook "Static Plots seaborn.ipynb".
 
 ### 4. Text Processing
 
